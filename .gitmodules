@@ -1,0 +1,3 @@
+[submodule "src/pykyon/iit-kyon-ros-pkg"]
+	path = src/iit-kyon-ros-pkg
+	url = git@github.com:ADVRHumanoids/iit-kyon-ros-pkg.git

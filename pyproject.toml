@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pykyon"
+version = "0.0.1"
+authors = [
+  { name="Carlo Rizzardo", email="cr.git.mail@gmail.com" },
+]
+description = "Python package for kyon descriptions"
+readme = "README.md"
+requires-python = ">=3.8.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
