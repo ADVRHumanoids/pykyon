@@ -1,4 +1,4 @@
-from adarl.utils.utils import compile_xacro_string, pkgutil_get_path
+from adarl.utils.base_utils import compile_xacro_string, pkgutil_get_path
 from pathlib import Path
 
 model_path = pkgutil_get_path("pykyon", "iit-kyon-ros-pkg/kyon_urdf/urdf/kyon.urdf.xacro")

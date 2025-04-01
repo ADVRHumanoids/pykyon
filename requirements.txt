@@ -1,0 +1,9 @@
+adarl @ git+https://github.com/c-rizz/adarl@b6b63e4c7a33a66ee46b699c868b9fb9371fd175
+numpy==2.2.4
+numpy-quaternion==2024.0.8
+opencv-python==4.11.0.86
+PyYAML==6.0.2
+scipy==1.15.2
+tqdm==4.67.1
+typing_extensions==4.13.0
+xacro @ git+https://github.com/c-rizz/xacro_standalone.git@4ec1618a7bc42b2e3d5df0db77a577765a6f0519
